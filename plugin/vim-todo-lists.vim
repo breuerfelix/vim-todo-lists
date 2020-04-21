@@ -38,8 +38,8 @@ function! VimTodoListsInit()
     let g:VimTodoListsDatesFormat = "%X, %d %b %Y"
   endif
 
-  setlocal tabstop=2
-  setlocal shiftwidth=2 expandtab
+  setlocal tabstop=4
+  setlocal shiftwidth=4 expandtab
   setlocal cursorline
   setlocal noautoindent
 

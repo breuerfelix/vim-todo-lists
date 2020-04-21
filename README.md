@@ -11,11 +11,11 @@ Installation
 ##### Pathogen
 
     $ cd ~/.vim/bundle 
-    $ git clone https://github.com/aserebryakov/vim-todo-lists.git
+    $ git clone https://github.com/breuerfelix/vim-todo-lists.git
 
 ##### NeoBundle
 
-    NeoBundle 'aserebryakov/vim-todo-lists'
+    NeoBundle 'breuerfelix/vim-todo-lists'
 
 ##### Without plugin manager
 
